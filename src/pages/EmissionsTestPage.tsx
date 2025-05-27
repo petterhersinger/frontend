@@ -96,7 +96,7 @@ export function EmissionsTestPage() {
       id: "interpolateScope3",
       label: "Interpolate Scope 3",
       description:
-        "Fill gaps in scope 3 reporting by interpolating between known values. This helps create smoother visualizations while clearly marking interpolated data points.",
+        "Fill gaps in scope 3 reporting by interpolating between known values. This helps create smoother visualisations while clearly marking interpolated data points.",
       enabled: true,
     },
     {
@@ -213,7 +213,7 @@ export function EmissionsTestPage() {
           <div className="space-y-4">
             <Text variant="h2">EmissionsHistory Test Cases</Text>
             <Text variant="muted">
-              Testing edge cases and visualization methods for emissions data
+              Testing edge cases and visualisation methods for emissions data
             </Text>
           </div>
 
@@ -280,7 +280,7 @@ export function EmissionsTestPage() {
           <div className="space-y-8">
             {renderTestCase(
               "Inconsistent Scope 3 Reporting",
-              "Company reports scope 3 emissions for some years but not all. Tests the interpolation and visualization of incomplete scope 3 data.",
+              "Company reports scope 3 emissions for some years but not all. Tests the interpolation and visualisation of incomplete scope 3 data.",
               testCases.inconsistentScope3,
             )}
 
@@ -292,7 +292,7 @@ export function EmissionsTestPage() {
 
             {renderTestCase(
               "Missing Years",
-              "Company has gaps in reporting years. Tests the visualization and trend calculation with incomplete time series.",
+              "Company has gaps in reporting years. Tests the visualisation and trend calculation with incomplete time series.",
               testCases.missingYears,
             )}
           </div>
@@ -304,7 +304,7 @@ export function EmissionsTestPage() {
           <div className="space-y-8">
             {renderTestCase(
               "Long Reporting History",
-              "Company with many years of consistent reporting. Shows how the visualization handles larger datasets.",
+              "Company with many years of consistent reporting. Shows how the visualisation handles larger datasets.",
               testCases.manyYearsReporting,
             )}
 

@@ -984,7 +984,7 @@
       "categories": "Scope 3 Categories",
       "selectYear": "Select Year",
       "latestYear": "Latest Year",
-      "visualization": "Visualization",
+      "visualisation": "Visualisation",
       "data": "Data",
       "historicalDevelopment": "Historical Development"
     },
@@ -1190,7 +1190,7 @@
     "subtitle": "Why tracking, reporting and transparency of emissions is critical to enacting tangible change.",
     "impactTitle": "Understanding the Impact",
     "impactDescription": "Each particle represents millions of tons of CO₂ emissions. Watch as they accumulate over time, demonstrating the exponential growth of global emissions since the industrial revolution.",
-    "impactDescription2": "The visualization above shows how emissions have increased dramatically since 1950, with particularly rapid growth in recent decades.",
+    "impactDescription2": "The visualisation above shows how emissions have increased dramatically since 1950, with particularly rapid growth in recent decades.",
     "trackingTitle": "Measuring to Manage",
     "trackingDescription": "We cannot effectively reduce what is not measured. Accurate emissions tracking is the foundation for meaningful climate action.",
     "companies": "Companies",
