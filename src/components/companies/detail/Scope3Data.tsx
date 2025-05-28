@@ -123,6 +123,7 @@ export function Scope3Data({
                   value: cat.total,
                   color: getCategoryColor(cat.category),
                   category: cat.category,
+                  total: selectedScope3Total,
                 }))}
                 size={size}
                 filterable={true}
