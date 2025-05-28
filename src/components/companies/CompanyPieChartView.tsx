@@ -7,6 +7,7 @@ interface PieChartData {
   value: number;
   color: string;
   category?: number;
+  total?: number;
 }
 
 interface PieChartViewProps {
@@ -84,6 +85,7 @@ const PieChartView: React.FC<PieChartViewProps> = ({
         <Tooltip
           content={
             <CompanyPieTooltip
+              showPercentage={true}
               percentageLabel={percentageLabel}
               customActionLabel={customActionLabel}
             />

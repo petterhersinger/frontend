@@ -989,7 +989,9 @@
       "latestYear": "Senaste året",
       "visualisation": "Visualisering",
       "data": "Data",
-      "historicalDevelopment": "Historisk utveckling"
+      "historicalDevelopment": "Historisk utveckling",
+      "ofTotal": "av total"
+
     },
     "scopeReportingList": {
       "category": "Kategori"

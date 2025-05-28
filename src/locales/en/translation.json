@@ -986,7 +986,8 @@
       "latestYear": "Latest Year",
       "visualisation": "Visualisation",
       "data": "Data",
-      "historicalDevelopment": "Historical Development"
+      "historicalDevelopment": "Historical Development",
+      "ofTotal": "of total"
     },
     "scopeReportingList": {
       "category": "Category"
