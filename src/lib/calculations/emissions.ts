@@ -44,7 +44,7 @@ export interface TrendAnalysis {
 
 /**
  * Interpolate missing Scope 3 category data between periods
- * This helps create smoother visualizations while clearly marking interpolated values
+ * This helps create smoother visualisations while clearly marking interpolated values
  */
 export function interpolateScope3Categories(
   periods: EmissionPeriod[],

@@ -130,7 +130,7 @@
     "freeAccess": {
       "title": "Gratis databasåtkomst",
       "description": "Få tillgång till vår kompletta klimatdatabas genom bi-årliga datadumpningar, perfekt för forskning och analys.",
-      "export": "Databasdumpas var Feb 1 & Aug 1 varje år",
+      "export": "Databas dumpas var Feb 1 & Aug 1 varje år",
       "data": "Företag och kommuners klimatdata",
       "license": "Gratis att använda för både kommersiellt och icke-kommersiellt bruk",
       "requestAccess": "Hämta data"
@@ -703,6 +703,10 @@
     "hitNetZero": "Når nettonoll",
     "never": "Aldrig",
     "emissionsDevelopment": "Utsläppsutveckling",
+    "graph": {
+      "overview": "Översikt",
+      "sectors": "Utsläppskällor"
+    },
     "noParisPath": "Kommunens koldioxidbudget är förbrukad, vilket innebär att ingen linje för Parisavtalet visas i grafen nedan",
     "inTons": "I ton CO₂",
     "futureEmissions": "Framtida utsläpp",
@@ -983,7 +987,7 @@
       "categories": "Scope 3-kategorier",
       "selectYear": "Välj år",
       "latestYear": "Senaste året",
-      "visualization": "Visualisering",
+      "visualisation": "Visualisering",
       "data": "Data",
       "historicalDevelopment": "Historisk utveckling"
     },
@@ -1030,7 +1034,9 @@
       "unit": "tons CO₂e",
       "total": "Totalt",
       "year": "År",
-      "estimatedValue": "Utsläppsvärdet är uppskattat"
+      "estimatedValue": "Utsläppsvärdet är uppskattat",
+      "overview": "Översikt",
+      "sectors": "Utsläppskällor"
     },
     "map": {
       "legend": {
@@ -1062,7 +1068,7 @@
         "totalConsumptionEmission": {
           "label": "Konsumtionen",
           "description": "Totala utsläpp från konsumtion",
-          "detailedDescription": "Hushållens konsumtionsutsläpp (CO₂e) i ton per invånare och kommun år 2019. År 2050 ska utsläppen vara högst 1 ton per person och år för att ligga i linje med Parisavtalet",
+          "detailedDescription": "Hushållens konsumtionsutsläpp (CO₂e) i ton per invånare och kommun år 2023 (estimerad data). År 2050 ska utsläppen vara högst 1 ton per person och år för att ligga i linje med Parisavtalet",
           "source": "<0>Stockholm Environment Institute</0>"
         },
         "electricVehiclePerChargePoints": {
